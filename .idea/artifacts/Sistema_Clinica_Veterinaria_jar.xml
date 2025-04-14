@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sistema Clinica Veterinaria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sistema_Clinica_Veterinaria_jar</output-path>
+    <root id="archive" name="Sistema Clinica Veterinaria.jar">
+      <element id="module-output" name="Sistema Clinica Veterinaria" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../annotations-26.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
